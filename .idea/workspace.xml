@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f162aabd-7706-4cf8-8567-a471a8517ba8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1zjrMiguowj2cl5NBZugtGHshFt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f162aabd-7706-4cf8-8567-a471a8517ba8" name="Default Changelist" comment="" />
+      <created>1634672291293</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634672291293</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="306" y="47" key="#Inspections" timestamp="1634672621034">
+      <screen x="0" y="0" width="1360" height="738" />
+    </state>
+    <state x="306" y="47" key="#Inspections/0.0.1360.738@0.0.1360.738" timestamp="1634672621034" />
+    <state x="160" y="0" key="#Project_Structure" timestamp="1634672582505">
+      <screen x="0" y="0" width="1360" height="738" />
+    </state>
+    <state x="160" y="0" key="#Project_Structure/0.0.1360.738@0.0.1360.738" timestamp="1634672582505" />
+    <state x="496" y="146" key="chooseDestDirectoryDialog" timestamp="1634673456729">
+      <screen x="0" y="0" width="1360" height="738" />
+    </state>
+    <state x="496" y="146" key="chooseDestDirectoryDialog/0.0.1360.738@0.0.1360.738" timestamp="1634673456729" />
+    <state x="451" y="197" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1634673033041">
+      <screen x="0" y="0" width="1360" height="738" />
+    </state>
+    <state x="451" y="197" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1360.738@0.0.1360.738" timestamp="1634673033041" />
+  </component>
+</project>

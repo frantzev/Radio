@@ -1,7 +1,6 @@
 package ru.netology.domain;
 
 public class Radio {
-    String name;
 
     int maxRadioChannel; //Максимальный радиоканал
     int minRadioChannel; //Минимальный радиоканал
@@ -62,11 +61,7 @@ public class Radio {
     public void remoteCurrentRadioChannel(int currentRadioChannel) {
         if (currentRadioChannel > maxRadioChannel) {
             this.currentRadioChannel = maxRadioChannel;
-        } else if (currentRadioChannel < minRadioChannel) {
-            this.currentRadioChannel = minRadioChannel;
-        } else {
-            this.currentRadioChannel = currentRadioChannel;
-        }
+        } else this.currentRadioChannel = Math.max(currentRadioChannel, minRadioChannel);
     }
 
     public int getMaxVolume() {
